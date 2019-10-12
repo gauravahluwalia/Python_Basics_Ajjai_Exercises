@@ -1,0 +1,8 @@
+def exercise3():
+    a = 6.18     # decimal number
+    b = 0o134    # octal number
+    c = 0x17da5  # hexadecimal number
+    print(a, b, c)
+
+
+exercise3()
